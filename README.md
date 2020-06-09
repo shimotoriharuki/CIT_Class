@@ -1,1 +1,1 @@
-プロジェクト: Class
+# CIT Class repository
