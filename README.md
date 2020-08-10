@@ -1,1 +1,1 @@
-# CIT Class repository
+# CIT_class using MATLAB
